@@ -1,0 +1,20 @@
+{
+  "name": "Generic enclosure demonstration",
+  "units": "mm",
+  "measurement_status": "Synthetic example dimensions. Replace with actual product measurements.",
+  "datums": {"origin": "Outer base bottom center", "x": "width", "y": "depth", "z": "up"},
+  "shell": {"outer_size": [100, 62, 26], "wall": 2.2, "floor": 2.2, "corner_radius": 6, "profile_vertices": 128},
+  "lid": {"plate_thickness": 2.0, "clearance_per_side": 0.25, "seam_gap": 0.2, "lip_depth": 3.0, "lip_wall": 1.5},
+  "bosses": [
+    {"xy": [-36, -20], "outer_diameter": 6.5, "hole_diameter": 2.5, "height": 4.5},
+    {"xy": [36, 20], "outer_diameter": 6.5, "hole_diameter": 2.5, "height": 4.5}
+  ],
+  "openings": [
+    {"part": "base", "shape": "rect", "axis": "y", "center": [0, -31, 11], "size": [12, 7], "depth": 10},
+    {"part": "lid", "shape": "rect", "axis": "z", "center": [0, 0, 27.2], "size": [24, 14], "depth": 8}
+  ],
+  "reference": {"center": [0, 0, 7.6], "size": [90, 50, 1.6], "source": "Synthetic bounding envelope; not an imported PCB"},
+  "manufacturing": {"process": "unconfirmed", "material": "unconfirmed", "fit_coupon_required": true},
+  "verification": {"dimension_tolerance_mm": 0.001},
+  "preview": true, "tools": {}, "output_dir": "output"
+}

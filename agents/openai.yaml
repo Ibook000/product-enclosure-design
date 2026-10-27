@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用产品外壳建模"
+  short_description: "从实测尺寸和装配基准设计三维外壳，检查开孔、配合、网格与打印导出"
+  default_prompt: "使用 $product-enclosure-design，根据当前产品的真实尺寸和装配需求设计外壳，检查开孔、配合与导出，并保留可编辑工程和验证记录。"
