@@ -19,9 +19,9 @@
 
 ### 动态拆装演示
 
-[![键盘产品模型拆装片段，点击观看视频](docs/media/preview.gif)](https://github.com/Ibook000/product-enclosure-design/raw/refs/heads/main/docs/media/keyboard-exploded.mp4)
+[![键盘产品模型拆装片段，点击观看视频](docs/media/preview.gif)](https://raw.githubusercontent.com/Ibook000/product-enclosure-design/main/docs/media/keyboard-exploded.mp4)
 
-**[▶ 观看拆装视频 · 10 秒 / 720p / 静音](https://github.com/Ibook000/product-enclosure-design/raw/refs/heads/main/docs/media/keyboard-exploded.mp4)** · [打开 MP4 文件页](docs/media/keyboard-exploded.mp4) · [案例设计方法](references/keyboard-case.md)
+**[▶ 观看拆装视频 · 10 秒 / 720p / 静音](https://raw.githubusercontent.com/Ibook000/product-enclosure-design/main/docs/media/keyboard-exploded.mp4)** · [打开 MP4 文件页](docs/media/keyboard-exploded.mp4) · [案例设计方法](references/keyboard-case.md)
 
 静态图来自 v15a 外壳设计工程；视频来自同一产品的展示工程，外观、键帽和材质属于不同展示版本。画面用于说明结构与拆装表达，具体尺寸和配合应以目标设计工程为准。更多信息见 [素材说明](docs/media/README.md)。
 
