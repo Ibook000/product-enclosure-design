@@ -4,6 +4,31 @@
 
 适用于仪器、控制器、工具、消费品与保护壳。设计方法可使用目标环境的 CAD 或 Blender；附带一个独立的参数化盒壳生成器，不要求旧工程或私人模型。
 
+## 先看效果
+
+**语音快捷键盘外壳案例**：围绕 PCB、按键、旋钮和接口安排外形与开孔，并通过装配图和分解图检查结构关系。
+
+![语音快捷键盘外壳完整装配渲染：按键、旋钮、接口和面板开孔](docs/media/keyboard-assembly.png)
+
+| 完整装配 | 结构分解 |
+| --- | --- |
+| 外壳与操控件的空间关系、面板和侧面开孔 | 上盖、定位结构、PCB 与底壳的层次关系 |
+| [查看装配原图](docs/media/keyboard-assembly.png) | [查看分解原图](docs/media/keyboard-exploded.png) |
+
+![外壳结构分解渲染：上盖、内部结构、PCB 和底壳](docs/media/keyboard-exploded.png)
+
+### 动态拆装演示
+
+[![键盘产品模型拆装片段，点击观看视频](docs/media/preview.gif)](https://github.com/Ibook000/product-enclosure-design/raw/refs/heads/main/docs/media/keyboard-exploded.mp4)
+
+**[▶ 观看拆装视频 · 10 秒 / 720p / 静音](https://github.com/Ibook000/product-enclosure-design/raw/refs/heads/main/docs/media/keyboard-exploded.mp4)** · [打开 MP4 文件页](docs/media/keyboard-exploded.mp4) · [案例设计方法](references/keyboard-case.md)
+
+静态图来自 v15a 外壳设计工程；视频来自同一产品的展示工程，外观、键帽和材质属于不同展示版本。画面用于说明结构与拆装表达，具体尺寸和配合应以目标设计工程为准。更多信息见 [素材说明](docs/media/README.md)。
+
+## 从尺寸到交付
+
+实测尺寸 / CAD / PCB → 确定基准与装配约束 → 建模与开孔 → 装配和试片复核 → 源工程、分件 STL、预览及检查报告。
+
 ## 包含内容
 
 - 尺寸来源、单位、坐标基准和待测项的管理。
